@@ -38,7 +38,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 -->
-  <h3 align="center">Numba cuda</h3>
+  <h3 align="center">Numba CUDA tuto</h3>
 <!--
   <p align="center">
     project_description
@@ -68,7 +68,7 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
+      <!--<ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -77,8 +77,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contact">Contact</a></li>-->
+    <li><a href="#acknowledgements">References</a></li>
   </ol>
 </details>
 
